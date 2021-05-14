@@ -1,0 +1,12 @@
+{
+  "name": "web3-blogpost-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4",
+    "web3": "^1.3.6"
+  },
+  "script": {}
+}
